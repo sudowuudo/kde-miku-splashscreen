@@ -6,6 +6,9 @@ A Hatsune Miku splashscreen for KDE Plasma
 Install:
 
 `cd ~/.local/share/plasma/look-and-feel`
-Then
+
+Then:
 
 `git clone https://github.com/sudowuudo/kde-miku-splashscreen.git`
+
+Enjoy!
